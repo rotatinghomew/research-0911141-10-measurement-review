@@ -1,0 +1,19 @@
+{
+  "name": "实验记录异常复核台",
+  "focus": "逐字段范围与中位偏离",
+  "options": [
+    [
+      "batch",
+      "检查批次",
+      [
+        "current",
+        "transfer",
+        "reference"
+      ]
+    ]
+  ],
+  "selection": {
+    "batch": "current"
+  },
+  "purpose": "本地研究资料浏览与复核记录"
+}

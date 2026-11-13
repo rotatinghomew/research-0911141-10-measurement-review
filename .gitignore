@@ -1,0 +1,8 @@
+.state/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+node_modules/
+*.log

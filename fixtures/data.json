@@ -1,0 +1,1548 @@
+{
+  "records": [
+    {
+      "record_id": "record_000",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.2081,
+        "signal_b": null,
+        "temperature": 21.6491,
+        "signal_a_copy": 9.205
+      }
+    },
+    {
+      "record_id": "record_001",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.4722,
+        "signal_b": 41.0582,
+        "temperature": 21.9865,
+        "signal_a_copy": 10.4733
+      }
+    },
+    {
+      "record_id": "record_002",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.8648,
+        "signal_b": 39.8969,
+        "temperature": 22.1648,
+        "signal_a_copy": 9.8639
+      }
+    },
+    {
+      "record_id": "record_003",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.1428,
+        "signal_b": 37.9983,
+        "temperature": 21.431,
+        "signal_a_copy": 9.143
+      }
+    },
+    {
+      "record_id": "record_004",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.9191,
+        "signal_b": 39.8548,
+        "temperature": 21.7332,
+        "signal_a_copy": 9.9177
+      }
+    },
+    {
+      "record_id": "record_005",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.4787,
+        "signal_b": 41.0163,
+        "temperature": 21.8201,
+        "signal_a_copy": 10.4813
+      }
+    },
+    {
+      "record_id": "record_006",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.814,
+        "signal_b": 37.72,
+        "temperature": 21.9077,
+        "signal_a_copy": 8.8142
+      }
+    },
+    {
+      "record_id": "record_007",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.1388,
+        "signal_b": 38.2061,
+        "temperature": 21.5864,
+        "signal_a_copy": 9.1373
+      }
+    },
+    {
+      "record_id": "record_008",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.3375,
+        "signal_b": 40.47,
+        "temperature": 21.1143,
+        "signal_a_copy": 10.3376
+      }
+    },
+    {
+      "record_id": "record_009",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.7389,
+        "signal_b": 41.392,
+        "temperature": 21.5513,
+        "signal_a_copy": 10.7396
+      }
+    },
+    {
+      "record_id": "record_010",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.8877,
+        "signal_b": 37.6748,
+        "temperature": 22.1644,
+        "signal_a_copy": 8.8888
+      }
+    },
+    {
+      "record_id": "record_011",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.2726,
+        "signal_b": 45.5,
+        "temperature": 22.6639,
+        "signal_a_copy": 10.2723
+      }
+    },
+    {
+      "record_id": "record_012",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.5955,
+        "signal_b": 39.276,
+        "temperature": 21.7356,
+        "signal_a_copy": 9.5962
+      }
+    },
+    {
+      "record_id": "record_013",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.2182,
+        "signal_b": 38.4077,
+        "temperature": 21.4398,
+        "signal_a_copy": 9.2166
+      }
+    },
+    {
+      "record_id": "record_014",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.72,
+        "signal_b": 41.5634,
+        "temperature": 22.2365,
+        "signal_a_copy": 10.7161
+      }
+    },
+    {
+      "record_id": "record_015",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.8104,
+        "signal_b": 41.5102,
+        "temperature": 21.5994,
+        "signal_a_copy": 10.8096
+      }
+    },
+    {
+      "record_id": "record_016",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.7666,
+        "signal_b": 43.759,
+        "temperature": 23.0481,
+        "signal_a_copy": 11.7651
+      }
+    },
+    {
+      "record_id": "record_017",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.2238,
+        "signal_b": null,
+        "temperature": 21.942,
+        "signal_a_copy": 9.2244
+      }
+    },
+    {
+      "record_id": "record_018",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.0283,
+        "signal_b": 39.9959,
+        "temperature": 21.7899,
+        "signal_a_copy": 10.0305
+      }
+    },
+    {
+      "record_id": "record_019",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.76,
+        "signal_b": 39.3621,
+        "temperature": 20.9021,
+        "signal_a_copy": 9.7571
+      }
+    },
+    {
+      "record_id": "record_020",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.3151,
+        "signal_b": 38.7121,
+        "temperature": 22.9272,
+        "signal_a_copy": 9.3137
+      }
+    },
+    {
+      "record_id": "record_021",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.3307,
+        "signal_b": 42.7268,
+        "temperature": 22.6179,
+        "signal_a_copy": 11.3309
+      }
+    },
+    {
+      "record_id": "record_022",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.0624,
+        "signal_b": 40.0593,
+        "temperature": 22.3693,
+        "signal_a_copy": 10.0615
+      }
+    },
+    {
+      "record_id": "record_023",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.6992,
+        "signal_b": 41.0122,
+        "temperature": 22.5496,
+        "signal_a_copy": 10.6969
+      }
+    },
+    {
+      "record_id": "record_024",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.869,
+        "signal_b": 39.6019,
+        "temperature": 22.5613,
+        "signal_a_copy": 9.8698
+      }
+    },
+    {
+      "record_id": "record_025",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.0604,
+        "signal_b": 40.1023,
+        "temperature": 22.0952,
+        "signal_a_copy": 10.0605
+      }
+    },
+    {
+      "record_id": "record_026",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.2645,
+        "signal_b": 42.3963,
+        "temperature": 22.1576,
+        "signal_a_copy": 11.2626
+      }
+    },
+    {
+      "record_id": "record_027",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.9087,
+        "signal_b": 39.5737,
+        "temperature": 22.6673,
+        "signal_a_copy": 9.9103
+      }
+    },
+    {
+      "record_id": "record_028",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.7376,
+        "signal_b": 41.2692,
+        "temperature": 22.1111,
+        "signal_a_copy": 10.7405
+      }
+    },
+    {
+      "record_id": "record_029",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.5245,
+        "signal_b": 38.8361,
+        "temperature": 21.9612,
+        "signal_a_copy": 9.5223
+      }
+    },
+    {
+      "record_id": "record_030",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.9356,
+        "signal_b": 39.9223,
+        "temperature": 21.7828,
+        "signal_a_copy": 9.9371
+      }
+    },
+    {
+      "record_id": "record_031",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.1267,
+        "signal_b": 40.2626,
+        "temperature": 22.0527,
+        "signal_a_copy": 10.128
+      }
+    },
+    {
+      "record_id": "record_032",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.9103,
+        "signal_b": 37.7434,
+        "temperature": 21.4432,
+        "signal_a_copy": 8.9115
+      }
+    },
+    {
+      "record_id": "record_033",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.6531,
+        "signal_b": 37.2233,
+        "temperature": 22.161,
+        "signal_a_copy": 8.6491
+      }
+    },
+    {
+      "record_id": "record_034",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.2419,
+        "signal_b": null,
+        "temperature": 21.7338,
+        "signal_a_copy": 9.2446
+      }
+    },
+    {
+      "record_id": "record_035",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.9489,
+        "signal_b": 41.6222,
+        "temperature": 23.0424,
+        "signal_a_copy": 10.9483
+      }
+    },
+    {
+      "record_id": "record_036",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.3047,
+        "signal_b": 42.4539,
+        "temperature": 22.5959,
+        "signal_a_copy": 11.3078
+      }
+    },
+    {
+      "record_id": "record_037",
+      "batch": "reference",
+      "values": {
+        "signal_a": 12.251,
+        "signal_b": 44.4561,
+        "temperature": 21.7878,
+        "signal_a_copy": 12.2499
+      }
+    },
+    {
+      "record_id": "record_038",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.6875,
+        "signal_b": 39.4052,
+        "temperature": 22.0442,
+        "signal_a_copy": 9.688
+      }
+    },
+    {
+      "record_id": "record_039",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.7472,
+        "signal_b": 39.6791,
+        "temperature": 22.0974,
+        "signal_a_copy": 9.7476
+      }
+    },
+    {
+      "record_id": "record_040",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.2417,
+        "signal_b": 38.3721,
+        "temperature": 21.2738,
+        "signal_a_copy": 9.2409
+      }
+    },
+    {
+      "record_id": "record_041",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.3757,
+        "signal_b": 40.8678,
+        "temperature": 21.6225,
+        "signal_a_copy": 10.3788
+      }
+    },
+    {
+      "record_id": "record_042",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.6366,
+        "signal_b": 41.145,
+        "temperature": 21.5015,
+        "signal_a_copy": 10.6377
+      }
+    },
+    {
+      "record_id": "record_043",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.9843,
+        "signal_b": 44.0611,
+        "temperature": 21.9158,
+        "signal_a_copy": 11.9848
+      }
+    },
+    {
+      "record_id": "record_044",
+      "batch": "reference",
+      "values": {
+        "signal_a": 12.5257,
+        "signal_b": 45.0337,
+        "temperature": 21.1091,
+        "signal_a_copy": 12.5281
+      }
+    },
+    {
+      "record_id": "record_045",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.4552,
+        "signal_b": 39.3918,
+        "temperature": 21.3376,
+        "signal_a_copy": 9.454
+      }
+    },
+    {
+      "record_id": "record_046",
+      "batch": "reference",
+      "values": {
+        "signal_a": 7.7608,
+        "signal_b": 35.6762,
+        "temperature": 22.0667,
+        "signal_a_copy": 7.7638
+      }
+    },
+    {
+      "record_id": "record_047",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.0155,
+        "signal_b": 38.1871,
+        "temperature": 22.5429,
+        "signal_a_copy": 9.0127
+      }
+    },
+    {
+      "record_id": "record_048",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.7438,
+        "signal_b": 37.5312,
+        "temperature": 21.6125,
+        "signal_a_copy": 8.7495
+      }
+    },
+    {
+      "record_id": "record_049",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.0126,
+        "signal_b": 39.7883,
+        "temperature": 21.8602,
+        "signal_a_copy": 10.0149
+      }
+    },
+    {
+      "record_id": "record_050",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.0883,
+        "signal_b": 40.2278,
+        "temperature": 21.7783,
+        "signal_a_copy": 10.0896
+      }
+    },
+    {
+      "record_id": "record_051",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.2571,
+        "signal_b": null,
+        "temperature": 22.6346,
+        "signal_a_copy": 10.2564
+      }
+    },
+    {
+      "record_id": "record_052",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.5149,
+        "signal_b": 41.0176,
+        "temperature": 22.3739,
+        "signal_a_copy": 10.5145
+      }
+    },
+    {
+      "record_id": "record_053",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.6947,
+        "signal_b": 39.4304,
+        "temperature": 21.7581,
+        "signal_a_copy": 9.6958
+      }
+    },
+    {
+      "record_id": "record_054",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.4676,
+        "signal_b": 42.8977,
+        "temperature": 22.5162,
+        "signal_a_copy": 11.4675
+      }
+    },
+    {
+      "record_id": "record_055",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.1984,
+        "signal_b": 42.7942,
+        "temperature": 22.8915,
+        "signal_a_copy": 11.2013
+      }
+    },
+    {
+      "record_id": "record_056",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.0261,
+        "signal_b": 42.4643,
+        "temperature": 22.6247,
+        "signal_a_copy": 11.0272
+      }
+    },
+    {
+      "record_id": "record_057",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.4921,
+        "signal_b": 38.905,
+        "temperature": 21.9336,
+        "signal_a_copy": 9.4956
+      }
+    },
+    {
+      "record_id": "record_058",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.0286,
+        "signal_b": 36.0131,
+        "temperature": 22.0772,
+        "signal_a_copy": 8.0277
+      }
+    },
+    {
+      "record_id": "record_059",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.0736,
+        "signal_b": 36.3416,
+        "temperature": 22.4707,
+        "signal_a_copy": 8.0753
+      }
+    },
+    {
+      "record_id": "record_060",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.9621,
+        "signal_b": 38.0632,
+        "temperature": 21.7923,
+        "signal_a_copy": 8.9646
+      }
+    },
+    {
+      "record_id": "record_061",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.4685,
+        "signal_b": 42.7194,
+        "temperature": 21.7068,
+        "signal_a_copy": 11.4672
+      }
+    },
+    {
+      "record_id": "record_062",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.6949,
+        "signal_b": 41.5881,
+        "temperature": 22.6399,
+        "signal_a_copy": 10.6925
+      }
+    },
+    {
+      "record_id": "record_063",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.0358,
+        "signal_b": 40.2806,
+        "temperature": 22.4683,
+        "signal_a_copy": 10.0357
+      }
+    },
+    {
+      "record_id": "record_064",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.8625,
+        "signal_b": 39.9128,
+        "temperature": 22.2657,
+        "signal_a_copy": 9.8633
+      }
+    },
+    {
+      "record_id": "record_065",
+      "batch": "reference",
+      "values": {
+        "signal_a": 6.2744,
+        "signal_b": 32.4384,
+        "temperature": 22.7347,
+        "signal_a_copy": 6.2741
+      }
+    },
+    {
+      "record_id": "record_066",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.3376,
+        "signal_b": 40.4087,
+        "temperature": 22.8916,
+        "signal_a_copy": 10.3368
+      }
+    },
+    {
+      "record_id": "record_067",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.4987,
+        "signal_b": 41.4174,
+        "temperature": 22.0313,
+        "signal_a_copy": 10.4996
+      }
+    },
+    {
+      "record_id": "record_068",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.6627,
+        "signal_b": null,
+        "temperature": 22.1999,
+        "signal_a_copy": 9.6629
+      }
+    },
+    {
+      "record_id": "record_069",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.6361,
+        "signal_b": 39.8994,
+        "temperature": 21.1666,
+        "signal_a_copy": 9.6389
+      }
+    },
+    {
+      "record_id": "record_070",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.3688,
+        "signal_b": 36.7392,
+        "temperature": 21.8563,
+        "signal_a_copy": 8.3684
+      }
+    },
+    {
+      "record_id": "record_071",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.8568,
+        "signal_b": 39.9628,
+        "temperature": 22.595,
+        "signal_a_copy": 9.8571
+      }
+    },
+    {
+      "record_id": "record_072",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.51,
+        "signal_b": 38.7816,
+        "temperature": 22.3741,
+        "signal_a_copy": 9.5097
+      }
+    },
+    {
+      "record_id": "record_073",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.8353,
+        "signal_b": 41.7953,
+        "temperature": 22.3388,
+        "signal_a_copy": 10.8344
+      }
+    },
+    {
+      "record_id": "record_074",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.4906,
+        "signal_b": 39.1393,
+        "temperature": 22.0879,
+        "signal_a_copy": 9.488
+      }
+    },
+    {
+      "record_id": "record_075",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.5114,
+        "signal_b": 39.1832,
+        "temperature": 21.3291,
+        "signal_a_copy": 9.512
+      }
+    },
+    {
+      "record_id": "record_076",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.9203,
+        "signal_b": 39.7738,
+        "temperature": 22.0519,
+        "signal_a_copy": 9.9213
+      }
+    },
+    {
+      "record_id": "record_077",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.8586,
+        "signal_b": 39.6135,
+        "temperature": 21.9511,
+        "signal_a_copy": 9.858
+      }
+    },
+    {
+      "record_id": "record_078",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.0293,
+        "signal_b": 40.1043,
+        "temperature": 21.5322,
+        "signal_a_copy": 10.0281
+      }
+    },
+    {
+      "record_id": "record_079",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.6601,
+        "signal_b": 37.5327,
+        "temperature": 21.861,
+        "signal_a_copy": 8.6594
+      }
+    },
+    {
+      "record_id": "record_080",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.3655,
+        "signal_b": 38.8115,
+        "temperature": 22.243,
+        "signal_a_copy": 9.3658
+      }
+    },
+    {
+      "record_id": "record_081",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.6855,
+        "signal_b": 41.2186,
+        "temperature": 22.544,
+        "signal_a_copy": 10.684
+      }
+    },
+    {
+      "record_id": "record_082",
+      "batch": "reference",
+      "values": {
+        "signal_a": 11.1399,
+        "signal_b": 41.9227,
+        "temperature": 21.4464,
+        "signal_a_copy": 11.1354
+      }
+    },
+    {
+      "record_id": "record_083",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.3536,
+        "signal_b": 40.5321,
+        "temperature": 21.8399,
+        "signal_a_copy": 10.3551
+      }
+    },
+    {
+      "record_id": "record_084",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.3656,
+        "signal_b": 38.4986,
+        "temperature": 21.845,
+        "signal_a_copy": 9.3639
+      }
+    },
+    {
+      "record_id": "record_085",
+      "batch": "reference",
+      "values": {
+        "signal_a": 8.5675,
+        "signal_b": null,
+        "temperature": 22.1789,
+        "signal_a_copy": 8.5673
+      }
+    },
+    {
+      "record_id": "record_086",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.9048,
+        "signal_b": 40.0093,
+        "temperature": 21.8184,
+        "signal_a_copy": 9.903
+      }
+    },
+    {
+      "record_id": "record_087",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.4515,
+        "signal_b": 39.1988,
+        "temperature": 21.1162,
+        "signal_a_copy": 9.4499
+      }
+    },
+    {
+      "record_id": "record_088",
+      "batch": "reference",
+      "values": {
+        "signal_a": 10.6019,
+        "signal_b": 41.7762,
+        "temperature": 21.877,
+        "signal_a_copy": 10.6022
+      }
+    },
+    {
+      "record_id": "record_089",
+      "batch": "reference",
+      "values": {
+        "signal_a": 9.0753,
+        "signal_b": 38.1279,
+        "temperature": 21.9994,
+        "signal_a_copy": 9.0757
+      }
+    },
+    {
+      "record_id": "record_090",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.7456,
+        "signal_b": 41.4356,
+        "temperature": 21.9804,
+        "signal_a_copy": 10.745
+      }
+    },
+    {
+      "record_id": "record_091",
+      "batch": "current",
+      "values": {
+        "signal_a": 11.1452,
+        "signal_b": 42.1952,
+        "temperature": 21.4507,
+        "signal_a_copy": 11.1499
+      }
+    },
+    {
+      "record_id": "record_092",
+      "batch": "current",
+      "values": {
+        "signal_a": 12.1375,
+        "signal_b": 44.2831,
+        "temperature": 21.2561,
+        "signal_a_copy": 12.1353
+      }
+    },
+    {
+      "record_id": "record_093",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.5423,
+        "signal_b": 41.2927,
+        "temperature": 21.7694,
+        "signal_a_copy": 10.5402
+      }
+    },
+    {
+      "record_id": "record_094",
+      "batch": "current",
+      "values": {
+        "signal_a": 11.464,
+        "signal_b": 42.6571,
+        "temperature": 22.2283,
+        "signal_a_copy": 11.4615
+      }
+    },
+    {
+      "record_id": "record_095",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.8284,
+        "signal_b": 41.5575,
+        "temperature": 21.9056,
+        "signal_a_copy": 10.8269
+      }
+    },
+    {
+      "record_id": "record_096",
+      "batch": "current",
+      "values": {
+        "signal_a": 8.2848,
+        "signal_b": 36.7076,
+        "temperature": 21.952,
+        "signal_a_copy": 8.2835
+      }
+    },
+    {
+      "record_id": "record_097",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.1817,
+        "signal_b": 40.2395,
+        "temperature": 21.6813,
+        "signal_a_copy": 10.1811
+      }
+    },
+    {
+      "record_id": "record_098",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.5809,
+        "signal_b": 41.02,
+        "temperature": 21.8634,
+        "signal_a_copy": 10.5824
+      }
+    },
+    {
+      "record_id": "record_099",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.6694,
+        "signal_b": 39.1129,
+        "temperature": 22.9071,
+        "signal_a_copy": 9.6684
+      }
+    },
+    {
+      "record_id": "record_100",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.6968,
+        "signal_b": 39.5437,
+        "temperature": 22.1544,
+        "signal_a_copy": 9.696
+      }
+    },
+    {
+      "record_id": "record_101",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.6857,
+        "signal_b": 39.2739,
+        "temperature": 21.5782,
+        "signal_a_copy": 9.6853
+      }
+    },
+    {
+      "record_id": "record_102",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.3283,
+        "signal_b": 45.5,
+        "temperature": 22.3956,
+        "signal_a_copy": 10.3313
+      }
+    },
+    {
+      "record_id": "record_103",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.5799,
+        "signal_b": 41.1771,
+        "temperature": 21.7907,
+        "signal_a_copy": 10.5819
+      }
+    },
+    {
+      "record_id": "record_104",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.5568,
+        "signal_b": 39.6904,
+        "temperature": 21.0282,
+        "signal_a_copy": 9.5554
+      }
+    },
+    {
+      "record_id": "record_105",
+      "batch": "current",
+      "values": {
+        "signal_a": 11.4976,
+        "signal_b": 43.0216,
+        "temperature": 21.6003,
+        "signal_a_copy": 11.4986
+      }
+    },
+    {
+      "record_id": "record_106",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.9064,
+        "signal_b": 39.7415,
+        "temperature": 22.0092,
+        "signal_a_copy": 9.9073
+      }
+    },
+    {
+      "record_id": "record_107",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.79,
+        "signal_b": 41.4804,
+        "temperature": 21.6333,
+        "signal_a_copy": 10.7942
+      }
+    },
+    {
+      "record_id": "record_108",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.7241,
+        "signal_b": 39.5911,
+        "temperature": 22.224,
+        "signal_a_copy": 9.7254
+      }
+    },
+    {
+      "record_id": "record_109",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.3542,
+        "signal_b": 40.321,
+        "temperature": 21.6929,
+        "signal_a_copy": 10.3582
+      }
+    },
+    {
+      "record_id": "record_110",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.9117,
+        "signal_b": 42.1241,
+        "temperature": 22.3803,
+        "signal_a_copy": 10.9115
+      }
+    },
+    {
+      "record_id": "record_111",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.2632,
+        "signal_b": 40.5027,
+        "temperature": 22.0715,
+        "signal_a_copy": 10.2657
+      }
+    },
+    {
+      "record_id": "record_112",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.4396,
+        "signal_b": 38.7193,
+        "temperature": 22.2007,
+        "signal_a_copy": 9.4415
+      }
+    },
+    {
+      "record_id": "record_113",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.0056,
+        "signal_b": 38.0732,
+        "temperature": 21.9381,
+        "signal_a_copy": 9.003
+      }
+    },
+    {
+      "record_id": "record_114",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.2893,
+        "signal_b": 38.7154,
+        "temperature": 21.1067,
+        "signal_a_copy": 9.2892
+      }
+    },
+    {
+      "record_id": "record_115",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.0889,
+        "signal_b": 39.9131,
+        "temperature": 21.4876,
+        "signal_a_copy": 10.0906
+      }
+    },
+    {
+      "record_id": "record_116",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.7873,
+        "signal_b": 39.377,
+        "temperature": 21.911,
+        "signal_a_copy": 9.7877
+      }
+    },
+    {
+      "record_id": "record_117",
+      "batch": "current",
+      "values": {
+        "signal_a": 12.9556,
+        "signal_b": 46.6197,
+        "temperature": 21.4342,
+        "signal_a_copy": 12.9585
+      }
+    },
+    {
+      "record_id": "record_118",
+      "batch": "current",
+      "values": {
+        "signal_a": 8.2353,
+        "signal_b": 45.5,
+        "temperature": 22.0612,
+        "signal_a_copy": 8.2375
+      }
+    },
+    {
+      "record_id": "record_119",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.2945,
+        "signal_b": null,
+        "temperature": 22.2474,
+        "signal_a_copy": 10.2951
+      }
+    },
+    {
+      "record_id": "record_120",
+      "batch": "current",
+      "values": {
+        "signal_a": 8.9867,
+        "signal_b": 38.04,
+        "temperature": 21.9006,
+        "signal_a_copy": 8.987
+      }
+    },
+    {
+      "record_id": "record_121",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.8457,
+        "signal_b": 39.3986,
+        "temperature": 21.6337,
+        "signal_a_copy": 9.8441
+      }
+    },
+    {
+      "record_id": "record_122",
+      "batch": "current",
+      "values": {
+        "signal_a": 8.5699,
+        "signal_b": 37.2134,
+        "temperature": 22.3654,
+        "signal_a_copy": 8.5723
+      }
+    },
+    {
+      "record_id": "record_123",
+      "batch": "current",
+      "values": {
+        "signal_a": 12.1191,
+        "signal_b": 44.0519,
+        "temperature": 21.589,
+        "signal_a_copy": 12.1198
+      }
+    },
+    {
+      "record_id": "record_124",
+      "batch": "current",
+      "values": {
+        "signal_a": 12.2329,
+        "signal_b": 44.4764,
+        "temperature": 22.2372,
+        "signal_a_copy": 12.2336
+      }
+    },
+    {
+      "record_id": "record_125",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.9549,
+        "signal_b": 41.6199,
+        "temperature": 22.1491,
+        "signal_a_copy": 10.9541
+      }
+    },
+    {
+      "record_id": "record_126",
+      "batch": "current",
+      "values": {
+        "signal_a": 10.1883,
+        "signal_b": 39.963,
+        "temperature": 21.7862,
+        "signal_a_copy": 10.1877
+      }
+    },
+    {
+      "record_id": "record_127",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.7405,
+        "signal_b": 39.6275,
+        "temperature": 22.1569,
+        "signal_a_copy": 9.738
+      }
+    },
+    {
+      "record_id": "record_128",
+      "batch": "current",
+      "values": {
+        "signal_a": 9.3905,
+        "signal_b": 38.9339,
+        "temperature": 22.2999,
+        "signal_a_copy": 9.3922
+      }
+    },
+    {
+      "record_id": "record_129",
+      "batch": "current",
+      "values": {
+        "signal_a": 8.4781,
+        "signal_b": 36.6403,
+        "temperature": 22.5226,
+        "signal_a_copy": 8.4747
+      }
+    },
+    {
+      "record_id": "record_130",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.3638,
+        "signal_b": 38.8098,
+        "temperature": 23.3507,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_131",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.8899,
+        "signal_b": 39.9541,
+        "temperature": 23.8111,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_132",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.2685,
+        "signal_b": 38.6542,
+        "temperature": 23.7464,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_133",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 11.6284,
+        "signal_b": 43.494,
+        "temperature": 23.7775,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_134",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 11.8184,
+        "signal_b": 43.5898,
+        "temperature": 23.3851,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_135",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 11.4757,
+        "signal_b": 42.7275,
+        "temperature": 23.9348,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_136",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.0183,
+        "signal_b": null,
+        "temperature": 24.3825,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_137",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 11.3618,
+        "signal_b": 42.5598,
+        "temperature": 24.7361,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_138",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.3419,
+        "signal_b": 38.7343,
+        "temperature": 24.6652,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_139",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 8.7972,
+        "signal_b": 37.6341,
+        "temperature": 24.0146,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_140",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 10.1956,
+        "signal_b": 40.3425,
+        "temperature": 23.8773,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_141",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 10.5965,
+        "signal_b": 40.8713,
+        "temperature": 23.548,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_142",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 11.899,
+        "signal_b": 43.9263,
+        "temperature": 24.3662,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_143",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.439,
+        "signal_b": 39.22,
+        "temperature": 24.2336,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_144",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 8.7915,
+        "signal_b": 37.7927,
+        "temperature": 25.1299,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_145",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 7.9698,
+        "signal_b": 35.9714,
+        "temperature": 23.8137,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_146",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.9006,
+        "signal_b": 39.983,
+        "temperature": 24.8806,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_147",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 11.3138,
+        "signal_b": 42.7975,
+        "temperature": 24.5395,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_148",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 9.6912,
+        "signal_b": 39.1733,
+        "temperature": 24.716,
+        "signal_a_copy": null
+      }
+    },
+    {
+      "record_id": "record_149",
+      "batch": "transfer",
+      "values": {
+        "signal_a": 10.0496,
+        "signal_b": 40.3435,
+        "temperature": 24.5886,
+        "signal_a_copy": null
+      }
+    }
+  ],
+  "fields": [
+    {
+      "id": "signal_a",
+      "unit": "a.u.",
+      "range": [
+        0,
+        20
+      ]
+    },
+    {
+      "id": "signal_b",
+      "unit": "mV",
+      "range": [
+        20,
+        60
+      ]
+    },
+    {
+      "id": "temperature",
+      "unit": "C",
+      "range": [
+        15,
+        35
+      ]
+    },
+    {
+      "id": "signal_a_copy",
+      "unit": "a.u.",
+      "range": [
+        0,
+        20
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "review_1",
+      "record_id": "record_011",
+      "field": "signal_b",
+      "decision": "investigate",
+      "note": "等待复测",
+      "revised_value": null
+    }
+  ]
+}
