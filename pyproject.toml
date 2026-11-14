@@ -1,6 +1,6 @@
 [project]
 name = "measurement-review"
-version = "0.3.0"
+version = "0.4.0"
 description = "实验记录异常复核台"
 requires-python = ">=3.11,<3.12"
 dependencies = []

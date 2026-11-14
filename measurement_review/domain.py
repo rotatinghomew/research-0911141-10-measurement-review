@@ -2,6 +2,7 @@ from collections import Counter, defaultdict
 from statistics import mean, median
 import math
 
+from .multivariate import assess
 from .validation import require_tables, unique, finite, references
 
 
@@ -42,6 +43,16 @@ def explore(data, selection):
                      "missing": len(values) - len(observed), "median": center,
                      "median_absolute_deviation": median(abs(value - center) for value in observed) if observed else None,
                      "outside_physical_range": sum(not field["range"][0] <= value <= field["range"][1] for value in observed)})
-    return {"summary": {"测量记录": len(records), "字段": len(rows), "缺测格": sum(row["missing"] for row in rows)},
+    view = {"summary": {"测量记录": len(records), "字段": len(rows), "缺测格": sum(row["missing"] for row in rows)},
             "rows": rows, "series": [{"label": row["field"], "y": row["missing"]} for row in rows],
             "notes": ["范围核对不等于多变量异常检测，不自动修改原始测量。", "中位数按当前选择批次描述，不是经验证的参考分布。"]}
+    multivariate = assess(data, selection)
+    view["summary"].update(multivariate["summary_extra"])
+    view["notes"].extend(multivariate["notes_extra"])
+    view["series"] = multivariate["series"]
+    view["threshold_line"] = multivariate["threshold_line"]
+    view["records"] = multivariate["records"]
+    view["batch_assessment"] = multivariate["batch_assessment"]
+    view["model"] = multivariate["model"]
+    view["limitations"] = multivariate["limitations"]
+    return view

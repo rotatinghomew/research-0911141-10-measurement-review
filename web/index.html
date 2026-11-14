@@ -1,13 +1,42 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>实验记录异常复核台</title><link rel="stylesheet" href="/style.css"></head>
-<body><header><span>教研数据 · 复核工作区</span><h1>实验记录异常复核台</h1><p>逐字段范围与中位偏离</p></header>
+<body><header><span>教研数据 · 复核工作区</span><h1>实验记录异常复核台</h1><p>变量间关系稳健复核：单元格 / 整记录 / 批次三级证据</p></header>
 <main><aside><h2>数据与范围</h2><label>数据版本<select id="revision"></select></label><div id="controls"></div>
 <button id="inspect">查看所选范围</button><label>导入完整数据<input id="upload" type="file" accept=".json,application/json"></label>
-<button id="raw">查看原始记录</button><h2>分析记录</h2><label>记录名称<input id="title" value="本次复核"></label>
+<button id="raw">查看原始记录</button>
+<h2>影响试算</h2><label>记录编号<input id="whatif-record" list="record-list" placeholder="如 record_118"></label>
+<datalist id="record-list"></datalist>
+<label>字段<select id="whatif-field"></select></label>
+<label>操作<select id="whatif-action">
+<option value="keep">保留（基线对照）</option>
+<option value="revise">修订该字段取值</option>
+<option value="clear">该字段按缺测处理</option>
+<option value="exclude">整条从参照拟合排除</option>
+</select></label>
+<label>修订值（仅修订时）<input id="whatif-value" type="number" step="any"></label>
+<button id="whatif-run">对比影响（不落盘）</button>
+<h2>复核意见</h2><label>记录编号<input id="review-record" list="record-list" placeholder="如 record_011"></label>
+<label>字段（留空为整条记录）<select id="review-field"></select></label>
+<label>意见类型<select id="review-decision">
+<option value="investigate">待复测</option>
+<option value="observe">继续观察</option>
+<option value="confirm">确认无误</option>
+<option value="revise">建议修订</option>
+<option value="exclude">建议排除</option>
+</select></label>
+<label>说明<input id="review-note" placeholder="人工意见，随数据版本保存"></label>
+<label>修订值（可空）<input id="review-value" type="number" step="any"></label>
+<button id="review-save">保存复核意见为新版本</button>
+<h2>分析记录</h2><label>记录名称<input id="title" value="本次复核"></label>
 <button id="save">保存当前描述</button><div id="archive"></div></aside>
-<section><div id="status" role="status">正在读取本地数据…</div><div id="summary"></div>
-<h2>逐字段范围与中位偏离</h2><div id="notes"></div><canvas id="chart" width="960" height="300" aria-label="所选范围描述图"></canvas>
+<section><div id="status" role="status">正在读取本地数据…</div><div id="batch-banner"></div><div id="summary"></div>
+<div id="notes"></div><canvas id="chart" width="960" height="300" aria-label="记录稳健距离与阈值"></canvas>
+<h2>记录级判定（变量间关系）</h2>
+<div class="table-wrap"><table><thead id="record-columns"></thead><tbody id="record-rows"></tbody></table></div>
+<h2>逐字段范围与中位偏离</h2>
 <div class="table-wrap"><table><thead id="columns"></thead><tbody id="rows"></tbody></table></div>
+<h2>模型、证据与判断限制</h2><pre id="model-panel"></pre><ul id="limitations"></ul>
+<h2>影响试算结果</h2><pre id="whatif-result">尚未试算。试算只读对比，不修改任何数据。</pre>
 <h2 id="detail-heading">记录与依据</h2><pre id="details">点击记录行可查看详细字段。</pre><button id="export">导出当前记录</button>
-</section></main><footer>仅使用本地虚构记录；描述统计不替代研究设计与业务复核。</footer><script src="/app.js"></script></body></html>
+</section></main><footer>仅使用本地虚构记录；统计提示不替代研究设计与业务复核，异常不等于造假。</footer><script src="/app.js"></script></body></html>
