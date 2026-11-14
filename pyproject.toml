@@ -2,5 +2,15 @@
 name = "measurement-review"
 version = "0.3.0"
 description = "实验记录异常复核台"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<3.12"
 dependencies = []
+
+[build-system]
+requires = ["setuptools==75.8.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["measurement_review*"]
+
+[tool.unittest]
+start-directory = "tests"
